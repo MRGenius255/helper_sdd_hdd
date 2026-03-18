@@ -48,12 +48,12 @@
 ## 📥 Установка и запуск
 
 ### Вариант 1: Скачать готовый файл
-1. Перейди в раздел **[Releases](https://github.com/MRGenius225/disk-part-helper/releases)**
-2. Скачай файл `disk_part_helper.bat`
+1. Перейди в раздел **[Releases](https://github.com/MRGenius225/helper_ssd_hdd/releases)**
+2. Скачай файл `helper.bat`
 3. Нажми **правой кнопкой мыши** → **Запуск от имени администратора**
 
 ### Вариант 2: Клонировать репозиторий
 ```bash
-git clone https://github.com/MRGenius225/disk-part-helper.git
-cd disk-part-helper
-disk_part_helper.bat
+git clone https://github.com/MRGenius225/helper_ssd_hdd.git
+cd helper_ssd_hdd
+helper.bat
